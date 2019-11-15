@@ -1,0 +1,14 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "skullquake",
+      "license": "GNU",
+      "author": "skullquake",
+      "boilerplate": "empty",
+      "widgetoptions": [
+        "templates",
+        "jquery"
+      ]
+    }
+  }
+}

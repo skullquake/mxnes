@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="mxnes.widget.mxnes" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+	<name>mxnes</name>
+	<description>NES Emulator</description>
+	<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEZklEQVRYhb2W20sjVxzHp/tSQajgrXT3QU1WLCq7oAZFdvFCNmYSvJCIYGZiZkxUKrk4Mc1t1SQzSUxmInUizXSpF9jIPnb/lL7uwvalr6XQPvXx24fEXNyszia0Ax/OgRk4n/ldzjkEUX76+/vbdDqdfnx8vGNqampSp9Pph4eHR0iS/JJhmLYbZmdnv9XpdPpmmJ6e7p2YmBgdGRnREQ2evp2dHbAs+1s0Gv5HFEW0t7f/rdFo3mm12vcajea9Vqt919XV9afP50U+L0OWTyHLp3VzWZZvjac4Pj6GIPBgGOZ3t9v9V19f368NBRSlgIuLc8iyDJ/Ph6WlRezu7mJ397sKJpMRoiji4OAlEomEKoLBIK6uLnFxcY5cLofu7u7GAvm8DJ5PgOd5cNwe1tbWEAoFawiBJElIkoijoyPwPK+KcDiMq6vLyrynR5UAh83NTWQzGWTKZLMZMIyjLHDYtEC3WoGxsTG8eKGvYDAY0NnZWREQhGYj0KMuBU7nJkQxW8fBwUuIYralCNwhkK8ToGka8XgMsViZeAxerwei2EwKru6vgbOzWgEOBoMBDMOAZZnKuLy81HINfDICtwVcW1uQJAmSJCEnSZAkEZFIpJyC/6ELHA4H0ukUUqkqweD3TdZANQW9vQ0i0Nb2sQBJGuFyuco44XI5YbFYWk7B4GCvOgG73Y54PFZDHB6Pu1yEzafgsVoBmqYqXXAz+v1cy214h0B9EbIsi1QqhXQ6VamFQGC/ZYGhwa/VFeH8/DwoigJNU6CoEkbSCElqTeDp0yF1AizLlv8+XSaF/f19iGKmRYGn6gQYhkE6nUQqlUQyWRqbb8MmBErHcagOp9PZ5FZcFRgdfqSuC1ZWluH1euDxlPB6PbDZbC1EIFHqgscq2tDv57C9vYWTkxxyuRInJzlEoxGcnv6Aw8NDCIKgilAohMvLmjZUI8BxHFzOTWSz2boLSSAQwNu3v0BRClAUBYqioFAooFD4EYVCAYpyM6/y6tVPEEXxczeiPczNzcFmW6/DaDTi+roIv5/D6uoqVldXkc1mkEjEyyRuzUvUpmOwUQQaFSFtp6t3gdgRYrEYPB4PisXXiEYjWFpahM/nqRTYfQgCj3A4gidPNI0FIpEwAoEAzs7y5bOArvmbEn4/h2LxNXieB03TyOdlJJNJVYuXingdo6OjHwtMTk5+pdfrPXa7/Y/z85/BcXvY3t5GLifVEQgEKgKJRByKolQWuFtAAEXZMDMz88ZqXVlvFAGCIIgHDOP4UBK4uRE56jCbzRWBz0EQBNhs6zCbye1PLU4QBPHA4agKOBwOCAJfB8ftNS1AUTb1An6Ow9aWq+YcSOM4ncbGxgaur4tNRsAGkjSrFPD7wbIM4vF4hUQiDopax/V1UfUmVAtFUSDJeyJgXjR9cLvdMJlMGBgYwNDQUB0PHz1EJBKB1WqBxWIpjTVYrVZYLNV3td89f/4MZvPdEfiio6NjgiCIZ/8VCwsL39Qu+C+hMJ7hyOGBIAAAAABJRU5ErkJggg==</icon>
+	<properties>
+		<property key="dummyKey" type="string" required="false" defaultValue="">
+			<caption>Dummy key</caption>
+			<category>Appearance</category>
+			<description>This key was added to make the widget work in the Modeler (needs atleast 1 key). Please change/remove this one</description>
+		</property>
+	</properties>
+</widget>
